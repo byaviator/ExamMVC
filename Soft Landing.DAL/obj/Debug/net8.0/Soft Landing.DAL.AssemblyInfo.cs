@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Soft Landing.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba324a253827483d96e91b815327c6b77afc290")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06b788dfa5c816f39e5716633383060594340901")]
 [assembly: System.Reflection.AssemblyProductAttribute("Soft Landing.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Soft Landing.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
