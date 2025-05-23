@@ -1,0 +1,16 @@
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\bin\Debug\net8.0\Soft Landing.BL.deps.json
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\bin\Debug\net8.0\Soft Landing.BL.dll
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\bin\Debug\net8.0\Soft Landing.BL.pdb
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\bin\Debug\net8.0\Soft Landing.DAL.dll
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\bin\Debug\net8.0\Soft Landing.DAL.pdb
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.sourcelink.json
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Lan.7F316E7E.Up2Date
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.dll
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\refint\Soft Landing.BL.dll
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\Soft Landing.BL.pdb
+C:\Users\II Novbe\source\repos\Soft Landing\Soft Landing.BL\obj\Debug\net8.0\ref\Soft Landing.BL.dll

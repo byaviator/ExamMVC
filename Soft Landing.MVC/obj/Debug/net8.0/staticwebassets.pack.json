@@ -1,0 +1,241 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\css\\tooplate-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tooplate-style.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\feature-mockup.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-mockup.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\team-image1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\team-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\team-image3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\testimonial-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\tst-image1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tst-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\tst-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tst-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\images\\tst-image3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tst-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Soft Landing\\Soft Landing.MVC\\wwwroot\\assets\\js\\smoothscroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\smoothscroll.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Soft Landing.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Soft Landing.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Soft Landing.MVC.props",
+      "PackagePath": "build\\Soft Landing.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Soft Landing.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Soft Landing.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Soft Landing.MVC.props",
+      "PackagePath": "buildTransitive\\Soft Landing.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
